@@ -1,6 +1,5 @@
 # Hello, I'm Abdulrahman Alsoso! 👋
 
-![Profile Image](https://avatars.githubusercontent.com/u/118553902?v=4)
 
 I am a Backend Developer with experience in C# and the ASP.NET Core framework. I have knowledge in languages such as C#, HTML, CSS, and JavaScript. I am also familiar with SOLID principles and work on both web and desktop applications using the WPF framework. Additionally, I have experience with MVVM and MVC design patterns.
 
